@@ -1,0 +1,8 @@
+{
+  "name": "Rawdons - Conference Planning & Operations Platform",
+  "description": "Multi-conference operations platform with individual event saving, real-time double-booking prevention, and tiered management staff clearance with Master Admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
